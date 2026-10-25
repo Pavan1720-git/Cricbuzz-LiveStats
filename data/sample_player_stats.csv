@@ -1,0 +1,63 @@
+stat_id,match_id,player_id,player_name,innings_number,runs,balls_faced,fours,sixes,dismissal_type,wickets,runs_conceded,balls_bowled,maidens
+1,1,3,Virat Kohli,1,85,98,9,0,caught,0,0,0,0
+2,1,2,Shubman Gill,1,79,83,7,2,bowled,0,0,0,0
+3,1,1,Rohit Sharma,1,42,31,5,2,caught,0,0,0,0
+4,1,7,Mohammed Shami,2,0,1,0,0,bowled,5,44,54,0
+5,1,8,Jasprit Bumrah,2,0,2,0,0,not out,2,35,36,1
+6,2,27,Kane Williamson,1,78,85,8,0,caught,0,0,0,0
+7,2,28,Devon Conway,1,152,121,14,4,not out,0,0,0,0
+8,2,29,Trent Boult,2,0,1,0,0,bowled,3,40,42,1
+9,3,24,Aiden Markram,1,92,87,10,3,run out,0,0,0,0
+10,3,25,Kagiso Rabada,2,0,2,0,0,bowled,3,34,36,1
+11,4,3,Virat Kohli,1,113,111,12,1,not out,0,0,0,0
+12,4,2,Shubman Gill,1,58,64,6,1,caught,0,0,0,0
+13,4,7,Mohammed Shami,2,0,3,0,0,not out,3,54,54,0
+14,4,33,Shaheen Afridi,1,0,1,0,0,lbw,3,43,42,1
+15,5,17,Adam Zampa,2,0,2,0,0,caught,3,38,36,1
+16,6,27,Kane Williamson,1,32,38,3,0,caught,0,0,0,0
+17,6,28,Devon Conway,1,47,53,5,0,lbw,0,0,0,0
+18,6,29,Trent Boult,2,0,1,0,0,not out,4,30,36,2
+19,7,25,Kagiso Rabada,2,0,3,0,0,bowled,4,59,54,0
+20,7,23,Temba Bavuma,1,35,48,3,0,caught,0,0,0,0
+21,8,1,Rohit Sharma,1,47,35,5,2,caught,0,0,0,0
+22,8,3,Virat Kohli,1,95,103,9,1,not out,0,0,0,0
+23,8,8,Jasprit Bumrah,2,0,4,0,0,not out,2,26,24,2
+24,9,12,Travis Head,1,109,67,10,5,caught,0,0,0,0
+25,9,15,Mitchell Starc,2,0,3,0,0,bowled,4,50,48,1
+26,10,3,Virat Kohli,1,117,101,10,3,not out,0,0,0,0
+27,10,5,Hardik Pandya,1,42,34,4,2,caught,0,0,0,0
+28,10,7,Mohammed Shami,2,0,2,0,0,bowled,4,22,24,2
+29,11,3,Virat Kohli,1,76,45,7,3,not out,0,0,0,0
+30,11,1,Rohit Sharma,1,52,28,5,3,caught,0,0,0,0
+31,11,8,Jasprit Bumrah,2,0,4,0,0,bowled,2,14,18,1
+32,12,12,Travis Head,1,76,43,8,3,caught,0,0,0,0
+33,12,17,Adam Zampa,2,0,2,0,0,caught,3,24,18,0
+34,13,25,Kagiso Rabada,2,0,1,0,0,not out,2,28,18,0
+35,14,3,Virat Kohli,1,76,60,5,4,caught,0,0,0,0
+36,14,8,Jasprit Bumrah,2,0,3,0,0,bowled,2,13,18,1
+37,14,33,Shaheen Afridi,1,0,2,0,0,lbw,4,23,24,1
+38,15,19,Ben Stokes,1,31,19,2,2,caught,0,0,0,0
+39,15,18,Jos Buttler,1,23,22,2,1,caught,0,0,0,0
+40,15,22,Mark Wood,2,0,4,0,0,not out,3,30,18,0
+41,16,1,Rohit Sharma,1,52,63,5,1,caught,0,0,0,0
+42,16,3,Virat Kohli,1,70,82,7,1,caught,0,0,0,0
+43,16,8,Jasprit Bumrah,2,0,5,0,0,not out,8,74,120,2
+44,16,7,Mohammed Shami,2,0,2,0,0,bowled,4,59,84,1
+45,16,11,David Warner,2,65,78,6,0,caught,0,0,0,0
+46,16,13,Steve Smith,2,58,99,5,0,caught,0,0,0,0
+47,17,11,David Warner,1,25,41,2,0,caught,0,0,0,0
+48,17,14,Marnus Labuschagne,1,63,112,6,0,caught,0,0,0,0
+49,17,15,Mitchell Starc,2,0,3,0,0,bowled,5,48,72,1
+50,18,13,Steve Smith,1,140,205,15,1,not out,0,0,0,0
+51,18,14,Marnus Labuschagne,1,72,133,7,0,caught,0,0,0,0
+52,19,12,Travis Head,1,152,128,15,5,caught,0,0,0,0
+53,19,11,David Warner,1,55,73,5,0,caught,0,0,0,0
+54,20,14,Marnus Labuschagne,1,162,286,18,1,not out,0,0,0,0
+55,20,16,Pat Cummins,2,0,5,0,0,bowled,3,64,90,1
+56,21,34,MS Dhoni,1,38,33,2,2,not out,0,0,0,0
+57,21,35,Ruturaj Gaikwad,1,52,41,6,1,caught,0,0,0,0
+58,22,3,Virat Kohli,1,42,30,4,1,caught,0,0,0,0
+59,23,38,Sanju Samson,1,86,46,8,4,caught,0,0,0,0
+60,24,40,Heinrich Klaasen,1,80,34,4,7,not out,0,0,0,0
+61,25,38,Sanju Samson,1,55,38,4,4,caught,0,0,0,0
+62,25,16,Pat Cummins,2,0,4,0,0,bowled,2,28,24,1

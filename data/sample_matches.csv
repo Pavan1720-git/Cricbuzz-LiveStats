@@ -1,0 +1,26 @@
+match_id,series_name,match_format,match_date,team1,team2,venue,city,toss_winner,toss_decision,winner,match_status,result_description
+1,ICC World Cup 2023,ODI,2023-10-05,India,Australia,Narendra Modi Stadium,Ahmedabad,India,bat,India,Completed,India won by 6 wickets
+2,ICC World Cup 2023,ODI,2023-10-08,England,New Zealand,HPCA Stadium,Dharamsala,New Zealand,field,New Zealand,Completed,New Zealand won by 9 wickets
+3,ICC World Cup 2023,ODI,2023-10-11,South Africa,Sri Lanka,Arun Jaitley Stadium,Delhi,South Africa,bat,South Africa,Completed,South Africa won by 102 runs
+4,ICC World Cup 2023,ODI,2023-10-14,India,Pakistan,Narendra Modi Stadium,Ahmedabad,Pakistan,field,India,Completed,India won by 7 wickets
+5,ICC World Cup 2023,ODI,2023-10-17,West Indies,Bangladesh,MCA Stadium,Pune,Bangladesh,bat,Bangladesh,Completed,Bangladesh won by 7 wickets
+6,ICC World Cup 2023,ODI,2023-10-19,New Zealand,Bangladesh,MA Chidambaram Stadium,Chennai,New Zealand,field,New Zealand,Completed,New Zealand won by 8 wickets
+7,ICC World Cup 2023,ODI,2023-10-21,England,South Africa,Wankhede Stadium,Mumbai,England,bat,South Africa,Completed,South Africa won by 229 runs
+8,ICC World Cup 2023,ODI,2023-10-22,India,New Zealand,HPCA Stadium,Dharamsala,India,bat,India,Completed,India won by 4 wickets
+9,ICC World Cup 2023,ODI,2023-10-26,Australia,New Zealand,HPCA Stadium,Dharamsala,Australia,field,Australia,Completed,Australia won by 5 runs
+10,ICC World Cup 2023,ODI,2023-10-28,India,England,BCCI Ekana Cricket Stadium,Lucknow,England,bat,India,Completed,India won by 100 runs
+11,ICC T20 World Cup 2024,T20I,2024-06-01,India,Ireland,Nassau County Stadium,New York,India,bat,India,Completed,India won by 8 wickets
+12,ICC T20 World Cup 2024,T20I,2024-06-05,Australia,Oman,Kensington Oval,Barbados,Australia,field,Australia,Completed,Australia won by 39 runs
+13,ICC T20 World Cup 2024,T20I,2024-06-09,South Africa,Afghanistan,Arnos Vale Ground,St Vincent,Afghanistan,bat,Afghanistan,Completed,Afghanistan won by 1 run
+14,ICC T20 World Cup 2024,T20I,2024-06-12,India,Pakistan,Nassau County Stadium,New York,India,bat,India,Completed,India won by 6 runs
+15,ICC T20 World Cup 2024,T20I,2024-06-15,Australia,England,Kensington Oval,Barbados,England,field,England,Completed,England won by 36 runs
+16,Border-Gavaskar Trophy 2024,Test,2024-11-22,Australia,India,Optus Stadium,Perth,Australia,bat,India,Completed,India won by 295 runs
+17,Border-Gavaskar Trophy 2024,Test,2024-12-06,Australia,India,Adelaide Oval,Adelaide,Australia,field,Australia,Completed,Australia won by 10 wickets
+18,Border-Gavaskar Trophy 2024,Test,2024-12-14,Australia,India,The Gabba,Brisbane,India,bat,Australia,Completed,Match drawn
+19,Border-Gavaskar Trophy 2024,Test,2024-12-26,Australia,India,Melbourne Cricket Ground,Melbourne,Australia,bat,Australia,Completed,Australia won by 184 runs
+20,Border-Gavaskar Trophy 2024,Test,2025-01-03,Australia,India,Sydney Cricket Ground,Sydney,India,field,Australia,Completed,Australia won by 6 wickets
+21,IPL 2024,IPL,2024-03-22,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai,Chennai Super Kings,bat,Chennai Super Kings,Completed,CSK won by 20 runs
+22,IPL 2024,IPL,2024-03-24,Royal Challengers Bengaluru,Punjab Kings,M Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,Completed,RCB won by 4 wickets
+23,IPL 2024,IPL,2024-04-07,Rajasthan Royals,Lucknow Super Giants,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,field,Rajasthan Royals,Completed,RR won by 20 runs
+24,IPL 2024,IPL,2024-05-26,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi Stadium,Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,Completed,SRH won by 36 runs
+25,IPL 2024,IPL,2024-05-26,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,Completed,KKR won by 8 wickets
